@@ -9,7 +9,7 @@ Some examples of these operators are:
 
 This code implements a refined version of the modified box algorithm described by de Hoop, Uhlmann, Vasy, and Wendt in ["Multiscale discrete approximations of Fourier integral operators associated with canonical transformations and caustics."](http://epubs.siam.org/doi/abs/10.1137/120889642)
 
-You can find the mathematical details in the paper ["Computing Fourier integral operators with caustics"](http://iopscience.iop.org/article/10.1088/0266-5611/32/12/125001/meta)
+You can find the mathematical details in the paper ["Computing Fourier integral operators with caustics."](http://iopscience.iop.org/article/10.1088/0266-5611/32/12/125001/meta)
 
 ## What do I need to run it?
 Modbox requires a not-too-ancient version of Matlab (2012b or newer should be fine). A C++ compiler is also required for the MEX subroutines.
