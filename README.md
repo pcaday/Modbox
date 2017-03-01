@@ -12,7 +12,7 @@ This code implements a refined version of the modified box algorithm described b
 You can find the mathematical details in P. Caday, ["Computing Fourier integral operators with caustics"](http://iopscience.iop.org/article/10.1088/0266-5611/32/12/125001/meta)
 
 ## What do I need to run it?
-Modbox requires a not-too-ancient version of Matlab (2012 or newer should be fine). A C++ compiler is also required for several MEX subroutines
+Modbox requires a not-too-ancient version of Matlab (2012b or newer should be fine). A C++ compiler is also required for the MEX subroutines.
 
 If you'd like to use pseudopolar FFTs, you will also need PolarLab, which can be downloaded [here](http://www.cs.technion.ac.il/~elad/software/).
 
